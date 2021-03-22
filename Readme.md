@@ -2,6 +2,6 @@
 * This repositry is a datacamp project on Covid analysis
 * It includes libraries like ggplot, dplyr, readr
     * ggplot
-    <p> This library helps to plot or visualize the contents within  a dataframe easily in R</p>
+    This library helps to plot or visualize the contents within  a dataframe easily in R
     * dplyr
-    <p> Helps to perform sql based queries on a dataframe making a data analyst job more easier </p>
+    Helps to perform sql based queries on a dataframe making a data analyst job more easier
